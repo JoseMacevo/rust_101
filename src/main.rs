@@ -14,7 +14,9 @@
 //mod conditionals_2;
 //mod match_coditional;
 //mod loops;
-mod for_loop;
+//mod for_loop;
+//mod structs_traits_1;
+mod asociated_methods;
 
 fn main() {
     //intro::run();
@@ -33,5 +35,7 @@ fn main() {
     //conditionals_2::run();
     //match_coditional::run();
     //loops::run();
-    for_loop::run();
+    //for_loop::run();
+    //structs_traits_1::run();
+    asociated_methods::run();
 }

@@ -1,1 +1,1 @@
-/home/josemacevo/Documents/Development/Rust-Lang/rust_101/target/debug/rust_101: /home/josemacevo/Documents/Development/Rust-Lang/rust_101/src/for_loop.rs /home/josemacevo/Documents/Development/Rust-Lang/rust_101/src/main.rs
+/home/josemacevo/Documents/Development/Rust-Lang/rust_101/target/debug/rust_101: /home/josemacevo/Documents/Development/Rust-Lang/rust_101/src/asociated_methods.rs /home/josemacevo/Documents/Development/Rust-Lang/rust_101/src/main.rs
